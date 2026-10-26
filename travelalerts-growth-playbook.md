@@ -1,286 +1,220 @@
-TravelAlerts.ke — X Growth Playbook
+# TravelAlert.ke — X Growth Playbook
 
-1. Purpose
+## 1. Purpose
 
-This playbook translates findings from the X recommendation algorithm research in this repository into practical publishing and audience-growth rules for TravelAlerts.ke.
+This playbook turns the X recommendation-algorithm research in this repository into a practical, testable publishing system for **TravelAlert.ke**.
 
-The objective is to build a trusted regional travel information account that:
+The goal is to build a trusted Africa-focused travel brand that:
+- Helps people stay informed about travel developments.
+- Inspires people to discover destinations and experiences.
+- Helps travellers find useful accommodation and flight deals.
+- Provides practical trip-planning and cross-border guidance.
+- Builds a loyal audience, useful website traffic and sustainable business opportunities.
 
-- Reaches travellers beyond its existing followers.
-- Converts relevant profile visitors into followers.
-- Publishes accurate, timely and useful travel alerts.
-- Builds a recognisable identity around travel regulations, border updates, safety and regional developments.
-- Develops a sustainable audience that can support future website traffic and business opportunities.
+Travel alerts are one pillar, not the whole brand. Accuracy and usefulness take priority over volume or virality.
 
-Core principle: Prioritise useful, credible information that people have a reason to read, share, discuss and follow for.
+## 2. Evidence, interpretation and experiments
 
-This is a working strategy, not a guarantee of reach or virality.
-
-2. Evidence and limitations
-
-The repository's algorithm research describes a recommendation system that retrieves candidate posts, predicts user actions, scores content, applies filtering and adjusts recommendations.
-
-The practical implications are hypotheses to test, not guaranteed ranking rules.
+The algorithm research describes candidate retrieval, predictions of user actions, ranking, filtering and recommendation adjustments. These details can inform hypotheses, but do not establish a guaranteed formula for reach.
 
 Keep three categories separate:
+- **Evidence:** What the available algorithm documentation explicitly says.
+- **Interpretation:** What it might mean for TravelAlert.ke content.
+- **Experiment:** What the account's own analytics show.
 
-- Evidence: What the available algorithm documentation explicitly describes.
-- Interpretation: What those mechanisms could mean for TravelAlerts.ke.
-- Experiment: What account analytics show works for this audience.
+X's systems and features can change. No specific posting time, hashtag, format or engagement tactic guarantees distribution. Treat recommendations in this document as operating hypotheses and revise them when evidence warrants it.
 
-X's implementation, ranking models and product features may change. Recommendation outcomes also vary by user, content and context.
+## 3. Audience and editorial position
 
-Do not assume that a single tactic, posting time, hashtag or engagement metric guarantees distribution.
+Serve people planning or taking trips within, into or across Africa: independent and regional travellers, families, adventure travellers, cross-border commuters, road users, travel planners, and relevant tourism, transport and hospitality audiences.
 
-3. Editorial positioning
+Position TravelAlert.ke as an independent, practical Africa travel companion—not a government authority or emergency service. Explain what is known, why it matters and what travellers should check or do next.
 
-Audience
+### Six content pillars
 
-Prioritise people who need reliable travel information about Kenya and the wider African region, including:
+1. **Travel alerts:** Significant security developments, border changes, transport disruptions, health notices and severe weather affecting travel.
+2. **Destination insights:** Country and city guides, national parks, culture, hidden gems and useful destination context.
+3. **Hotels and lodges:** Discoveries, reviews, comparisons, useful price information and booking opportunities.
+4. **Flight deals and discounts:** Verifiable offers, routes, travel dates, eligibility and booking terms.
+5. **Places and experiences:** Hiking, wildlife, beaches, attractions, road trips and memorable activities.
+6. **Practical travel guides:** Entry requirements, border procedures, transport options, trip costs, itineraries and preparation.
 
-- Regional and international travellers.
-- Cross-border commuters and road users.
-- Tourists, travel planners and tour operators.
-- Transport and hospitality audiences.
-- People following visa, immigration, border and travel-safety developments.
+Every post must serve a clear audience need and fit at least one pillar. Border, policy and regulation coverage can differentiate the brand, but should not crowd out destination discovery, accommodation, deals and practical planning.
 
-Content pillars
+## 4. Choose the right post format
 
-1. Travel alerts: Disruptions, closures, delays, safety notices and significant travel changes.
-2. Border and immigration updates: Entry requirements, visa changes, border procedures and official advisories.
-3. Regional travel news: Developments affecting travel across African countries.
-4. Why and What Today: Explain why a development matters and what travellers should do next.
-5. Practical travel guidance: Routes, documentation, travel preparation and cross-border considerations.
-6. Weekly roundups: A concise summary of important changes and upcoming travel considerations.
+Use the format that best serves the information; do not force every post into an alert template.
 
-Every post should fit at least one pillar and serve a clear audience need.
+- **Breaking alert:** What changed, where, when, who may be affected, practical next step and source.
+- **Explainer:** What a development means, who it applies to and what remains uncertain.
+- **Destination discovery:** A specific place or experience, why it may interest travellers, and practical context.
+- **Hotel or lodge feature:** Property, location, what is distinctive, verified price/date details if available, and a clear booking or research link.
+- **Flight deal:** Provider, route, price, travel dates, eligibility, availability and terms—only where verified.
+- **Practical guide:** A clear traveller question answered with dated, sourced details.
+- **Roundup:** A concise selection of genuinely useful developments, with dates and links.
 
-4. Standard travel-alert format
+For important alerts, use this checklist:
 
-Use this structure for important updates:
+**WHAT** happened or changed?  
+**WHERE** is the location, route or border?  
+**WHEN** did it happen or take effect?  
+**WHO IS AFFECTED**?  
+**WHAT TO DO** or verify next?  
+**SOURCE**: link to the original notice or credible reporting.  
+**UPDATED**: date/time when freshness matters.
 
-WHAT: What happened or changed?
+Do not invent prices, savings, availability, entry rules, opening hours or restrictions. Distinguish confirmed facts from reports, uncertainty, personal impressions and recommendations. Disclose affiliate or sponsored relationships when applicable.
 
-WHERE: Which country, border, route or location is affected?
+## 5. Write for discovery and trust
 
-WHEN: When did it happen, or when does the change take effect?
+- Make each post understandable to someone who has never seen the account.
+- Put the main point early; name the country, place, route or issue clearly.
+- Explain the practical consequence rather than merely repeating an announcement.
+- Add original context, comparison or useful next steps instead of copying source text.
+- Use plain language and specific details; avoid vague teasers and sensational claims.
+- Include links when readers need the original source, booking terms or further detail.
+- Use hashtags sparingly and only when relevant.
+- Ask a focused question only when replies could genuinely help travellers or improve coverage.
+- Join relevant conversations only when TravelAlert.ke can add useful, verified context.
 
-WHO IS AFFECTED: Which travellers or transport users need to pay attention?
+## 6. Diversity and repetition controls
 
-WHAT TO DO: What practical action should readers consider?
+The objective is **useful editorial variety**, not variety for its own sake. Do not let the easiest content to find—often alerts—become the whole account.
 
-SOURCE: Link to the official announcement or credible reporting.
+### Rolling content check
 
-UPDATED: Include a date and time when timeliness matters.
+Review the most recent 20 posts, or all posts if the account has fewer than 20. As a provisional editorial guide, aim to include:
+- Alerts and travel developments.
+- Destination insights and places/experiences.
+- Hotels/lodges and flight deals.
+- Practical guides and explainers.
 
-Keep the opening direct. Put the most important information first, especially for urgent alerts.
+Do not treat these as algorithmic quotas. The exact mix should reflect the importance of current developments, the quality of available evidence and audience response. Urgent verified alerts can override the planned mix.
 
-Do not publish an unverified claim as confirmed fact. If details remain uncertain, state what is known, what is unconfirmed and where readers can check for updates.
+### Before drafting a new post
 
-5. Writing for discovery and engagement
+1. Review recent posts for the same event, place, offer or question.
+2. Ask whether the new post adds a genuinely new fact, practical consequence, audience or format.
+3. If nothing material has changed, do not publish a near-duplicate just to increase volume.
+4. If an alert changes, state exactly what is new and when it was checked.
+5. Use a reply or visible update to an existing post when that is clearer; publish a new post when the development or audience need materially changes.
+6. Rotate formats naturally: concise text, source-led alert, explainer, question, map/graphic, destination feature, deal or roundup.
+7. Keep a simple post log with date, pillar, country/region, topic, format, purpose and link. Use it to spot repetition and gaps.
 
-Make every post independently useful
+Visual consistency should make the account recognisable, not make every post identical.
 
-Write posts that make sense to someone who has never seen the account before.
+## 7. Reusable tweet-generation brief
 
-- Name the country, route, border or issue clearly.
-- Explain the practical consequence, not just the announcement.
-- Use specific headlines rather than vague teasers.
-- Provide enough context to make the post understandable on its own.
-- Link to the original source when readers need further details.
+Use this brief whenever drafting posts with an AI assistant or editor:
 
-Encourage meaningful engagement
+> Create an X post for TravelAlert.ke, an independent Africa-focused travel information and discovery brand. First identify the primary content pillar: Travel Alerts; Destination Insights; Hotels & Lodges; Flight Deals; Places & Experiences; or Practical Travel Guides. Check the recent-post log for repetition. Use only supplied or independently verified facts; do not invent prices, availability, rules, dates or claims. Write a clear, mobile-friendly post with the main point early and enough context to stand alone. Match the format to the purpose. For alerts, state location, timing, who is affected, practical next step and source. For deals, include provider, route/property, price, dates, eligibility and terms only when verified. For destination content, be specific and engaging without exaggeration. Add a relevant link or a focused question only if useful. Use relevant hashtags sparingly. Flag missing verification instead of guessing. Provide one strong draft and briefly note any fact that still needs checking. Do not publish or schedule without explicit approval.
 
-Prioritise content that naturally gives readers a reason to respond or share.
+### Pre-publication quality gate
 
-Useful approaches include:
+Before a post is approved, confirm:
+- Is the main claim accurate, current and relevant?
+- Is the source identifiable and appropriate to the claim?
+- Are location, dates and affected traveller categories clear where relevant?
+- Are facts separated from inference, opinion and recommendations?
+- Does it add value beyond recent posts?
+- Is the wording clear on a phone and free of needless hype?
+- Are links, prices, terms and any commercial disclosures correct?
+- Does the post fit the brand and serve a clear reader need?
 
-- Explaining how a new rule affects travellers.
-- Comparing confirmed changes across relevant countries.
-- Answering genuine questions about routes or documentation.
-- Asking a focused question when traveller experiences would add value.
-- Correcting or updating an earlier post when new information becomes available.
+If a material claim cannot be verified, correct the draft, label the uncertainty or hold the post. Do not auto-publish or auto-schedule.
 
-Avoid generic engagement bait, misleading headlines and requests for artificial interactions.
+## 8. Verification and corrections
 
-Participate in relevant conversations
+Travel information can affect safety, money and the ability to cross borders. Verification is mandatory.
 
-Reply to relevant posts from official authorities, transport operators, tourism organisations and credible regional news sources when TravelAlerts.ke can add verified information.
+Before publishing consequential claims:
+1. Find the original or primary source where possible.
+2. Check the issuer, publication/update date, country, location and traveller category.
+3. Confirm the effective date, deadlines, exceptions and scope.
+4. Check a second reliable source when the claim is consequential and corroboration is available.
+5. Separate official instructions from TravelAlert.ke's practical suggestions.
+6. Record when the information was checked if it may change quickly.
 
-Do not reply merely to attract attention. Relevance and usefulness come first.
+Prioritise relevant government agencies, immigration and border authorities, transport operators, tourism providers and other responsible institutions. Secondary reports can provide context but should not be misrepresented as official notices.
 
-6. Originality and publishing discipline
+If a published post is materially wrong or incomplete, correct it promptly and visibly, explain what changed, and link to updated information when useful. Do not quietly leave a misleading claim unaddressed.
 
-The algorithm research describes filtering and author-diversity mechanisms. It does not establish that any specific posting frequency guarantees better reach.
+## 9. Brand and visual consistency
 
-Apply these editorial rules:
+- Use the correct brand spelling: **TravelAlert.ke**.
+- Make country or regional labels easy to identify.
+- Keep headlines legible on mobile.
+- Use geographically accurate maps and consistent country abbreviations.
+- Use regional graphics when they clarify multi-country stories.
+- Use authentic destination imagery for discovery content and scannable details for deals.
+- Prefer text-only posts when a visual adds no meaningful value.
+- Do not imply official government status or emergency-service authority.
 
-- Avoid publishing several near-identical versions of the same alert.
-- Do not repeat an unchanged update just to increase post volume.
-- When an alert changes, clearly state what is new.
-- Use a new post when a development materially changes; otherwise consider a reply or update to the original post.
-- Add original explanation, local context or practical implications rather than copying source text.
-- Use maps and regional graphics when they genuinely clarify the information.
-- Avoid irrelevant hashtags and unrelated trending topics.
+## 10. Measurement framework
 
-A reasonable starting point is one to three strong posts per day when there is sufficient verified material, with additional urgent updates when necessary. Treat this as an initial operating hypothesis, not an algorithm requirement.
+Measure both distribution and meaningful audience development.
 
-Accuracy takes priority over volume.
-
-7. Visual and brand consistency
-
-Use a consistent visual identity for TravelAlerts.ke.
-
-- Keep the country or region easy to identify.
-- Make the main alert or headline readable on a phone screen.
-- Use country abbreviations consistently.
-- Keep maps geographically accurate and avoid unnecessary decorative elements.
-- Ensure graphics remain understandable when viewed in a small feed preview.
-- Use text-only posts when a visual adds no meaningful value.
-
-For multi-country developments, use the relevant regional graphic rather than forcing every story into the same template.
-
-Visual consistency should improve recognition without making every post look identical.
-
-8. Trust and verification protocol
-
-Travel information can affect people's safety, money and ability to cross borders. Verification is mandatory.
-
-Before publishing, check:
-
-1. Is the claim supported by an identifiable source?
-2. Is there an official notice or primary source?
-3. Does the source apply to the country, route and traveller category described?
-4. Are the effective date and any deadlines clear?
-5. Have proposed actions been distinguished from official instructions?
-6. Could the headline mislead readers about what is confirmed?
-
-When possible, prioritise government agencies, immigration departments, border authorities, transport operators and other responsible institutions.
-
-If information comes from secondary reporting, identify that appropriately and seek corroboration for consequential claims.
-
-Corrections
-
-If a published alert is wrong or materially incomplete:
-
-- Correct it promptly.
-- Make the correction visible.
-- Explain what changed.
-- Link to the corrected or updated information when appropriate.
-- Do not quietly leave a materially misleading claim unaddressed.
-
-Trust is a long-term audience asset.
-
-9. Measurement framework
-
-Measure both distribution and audience development.
-
-Primary metrics
-
-- Impressions: How often posts were shown.
-- Engagement rate: Engagement relative to impressions, where available.
-- Reposts: Whether readers share the information.
-- Replies: Whether readers find the topic worth discussing.
-- Profile visits: Whether posts generate interest in the account.
-- New followers: Whether that interest converts into an ongoing audience.
-- Link clicks: Whether readers visit the original source or TravelAlerts.ke website, when available.
-
-Calculate rates consistently. For example:
-
-Engagement rate = engagements ÷ impressions × 100
-
-Profile-visit rate = profile visits ÷ impressions × 100
-
-Follow conversion rate = new followers attributed to a post or period ÷ profile visits × 100
-
-Use the same definitions across comparisons and note when a metric is unavailable.
-
-What success means
-
-Do not judge a post by impressions alone.
-
-A widely viewed post may produce few followers. A smaller post about a specific border change may attract highly relevant readers.
-
-Assess whether each content type helps the account achieve its intended outcome: awareness, sharing, useful discussion, profile visits, follower growth or website traffic.
-
-10. Four-week testing plan
-
-Week 1 — Establish a baseline
-
-Publish verified content across the main content pillars.
-
-Record available metrics and classify each post by:
-
-- Content pillar.
-- Country or region.
-- Format: text, image, map or link-led.
-- Purpose: alert, explanation, guidance or roundup.
-
-Do not make strong conclusions from a handful of posts.
-
-Week 2 — Test post structure
-
-Compare direct, information-first alerts with explanatory posts that emphasise why the development matters.
-
-Keep the topic and format as comparable as practical.
-
-Week 3 — Test presentation
-
-Compare text-only posts with graphics or maps where both formats can communicate the same information accurately.
-
-Do not use graphics simply to increase output.
-
-Week 4 — Review and refine
-
-Identify which post types consistently perform well across relevant metrics.
-
-Look for patterns in:
-
+Track where available:
+- Impressions.
+- Engagements and engagement rate.
 - Reposts and meaningful replies.
-- Profile visits and follower conversion.
-- Performance by country and topic.
-- Reader questions and recurring information needs.
+- Profile visits.
+- New followers.
+- Link clicks and website referrals.
+- Performance by pillar, country/region, topic, format and post purpose.
 
-Retain promising approaches, stop ineffective experiments and document what remains uncertain.
+Use consistent definitions:
+- **Engagement rate** = engagements ÷ impressions × 100.
+- **Profile-visit rate** = profile visits ÷ impressions × 100.
+- **Follow conversion rate** = attributable new followers ÷ profile visits × 100, where attribution is available.
 
-Where sample sizes are small or results are mixed, continue testing instead of declaring a winner.
+Do not judge a post by impressions alone. A specific border update may reach fewer people but attract the right audience; a destination guide may drive saves, profile visits or website traffic. Interpret results in context and note when metrics are unavailable.
 
-11. Weekly review
+## 11. Four-week testing plan
 
-At the end of each week, answer:
+**Week 1 — Baseline:** Publish verified posts across the six pillars when suitable material exists. Log pillar, country/region, format, purpose and available metrics.
 
-1. Which posts delivered the most useful audience response?
-2. Which posts attracted profile visits or new followers?
-3. Which topics generated genuine questions?
-4. Which countries or routes received the strongest relevant interest?
-5. Did any post generate engagement without meaningful audience growth?
-6. Were any updates delayed, unclear or insufficiently sourced?
-7. What single change should be tested next week?
+**Week 2 — Structure:** Compare concise information-first posts with explanatory posts. Keep topics and formats as comparable as practical.
 
-Choose one primary experiment at a time where practical. This makes it easier to understand what may have influenced the result.
+**Week 3 — Presentation:** Compare text-only posts with graphics or maps when either can communicate the same facts accurately.
 
-12. Operating principles
+**Week 4 — Review:** Examine useful replies, reposts, profile visits, follower growth, link clicks and performance by pillar. Keep promising approaches, stop weak experiments and document uncertainty.
 
-TravelAlerts.ke will:
+Do not draw strong conclusions from a handful of posts. Where samples are small or results mixed, continue testing. Change one major variable at a time where practical.
 
+## 12. Weekly review
+
+At the end of each week, ask:
+1. Which posts were most useful to the intended audience?
+2. Which attracted profile visits, new followers or website visits?
+3. Which pillars were over- or under-represented?
+4. Which countries, topics or formats attracted relevant interest?
+5. Did any post gain attention without meaningful audience development?
+6. Were any claims delayed, unclear, repetitive or insufficiently sourced?
+7. What should be tested next week?
+
+Choose one main experiment where practical. Do not change strategy solely because of one unusually high- or low-performing post.
+
+## 13. Operating principles and success
+
+TravelAlert.ke will:
 - Put accuracy before speed when facts are uncertain.
-- Put practical usefulness before engagement tricks.
+- Put usefulness before engagement tricks.
 - Put original context before repetitive reposting.
-- Put audience relevance before raw impressions.
-- Distinguish official facts from interpretation.
+- Balance timely alerts with discovery, deals and practical guidance.
+- Distinguish official facts from interpretation and personal impressions.
+- Disclose relevant commercial relationships.
 - Correct consequential mistakes transparently.
-- Use analytics to test hypotheses, not to manufacture certainty.
+- Use analytics to test hypotheses, not manufacture certainty.
 - Adapt to platform changes without abandoning editorial standards.
 
-13. Definition of progress
-
-The playbook is working when TravelAlerts.ke shows sustained improvement in relevant audience growth, profile-to-follow conversion, useful engagement and, when applicable, website referrals—without compromising accuracy or trust.
+The playbook is working when the account builds a more relevant and loyal audience, improves profile-to-follow conversion and useful engagement, and generates appropriate website referrals—without compromising accuracy or trust.
 
 Review this document monthly and update it when meaningful new evidence or account analytics justify a change.
 
 ---
 
-Document status: Initial operating playbook
-Repository reference: "README.md"
-Review cadence: Weekly performance review; monthly strategy revision
-Scope: TravelAlerts.ke on X
+**Document status:** Working operating playbook  
+**Repository:** `siiro-byte/x-algorithm`  
+**Review cadence:** Weekly performance review; monthly strategy revision  
+**Scope:** TravelAlert.ke on X
